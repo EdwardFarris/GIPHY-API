@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/backgroundGIPHY.jpg")
+}
+
+button {
+    border: 2px solid black;
+}
+
+h1 {
+    font-family: 'Ultra', serif;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px rebeccapurple
+}
+
+h4 {
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 2px yellow;
+}
+
+form{
+    background-color: lightgray;
+    font-size: 30px;
+    font-family: 'Special Elite', cursive;
+    float: right;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+label,
+input {
+    margin: 10px;
+}
+
